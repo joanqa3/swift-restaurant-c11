@@ -4,6 +4,10 @@ Este es el proyecto final del Coursera de Aplicaciones iOS, parte C11 del progra
 ## Vista Previa
 ![Demonstration](_docs/videos/video-preview-v018-small.mp4)
 
+https://github.com/user-attachments/assets/50a806ec-967d-4d15-bffb-50b43b4981c7
+
+
+
 - <a href="_docs/videos/video-preview-v018-small.mp4" class="image fit">Video Preview</a>
 
 ## Funcionalidades
