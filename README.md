@@ -2,9 +2,9 @@
 Este es el proyecto final del Coursera de Aplicaciones iOS, parte C11 del programa de Certificación Profesional de Desarrollo iOS de Meta. La app es una aplicación de pedidos de comida que permite a los usuarios explorar el menú del restaurante Little Lemon y realizar pedidos.
 
 ## Vista Previa
-![Demonstration](_docs/videos/video-preview-v018.mp4)
+![Demonstration](_docs/videos/video-preview-v018-small.mp4)
 
-- <a href="_docs/videos/video-preview-v018.mp4" class="image fit">Video Preview</a>
+- <a href="_docs/videos/video-preview-v018-small.mp4" class="image fit">Video Preview</a>
 
 ## Funcionalidades
 - Onboarding con Pantalla de bienvenida que solicita a los usuarios ingresar sus datos personales.
