@@ -1,0 +1,93 @@
+/*
+ Localizable.strings
+ MyNewApp
+
+ Created by [Your Name] on [Date].
+*/
+
+"my.language" = "Français";
+
+"language.es" = "Espagnol";
+"language.ca" = "Catalan";
+"language.en" = "Anglais";
+"language.fr" = "Français";
+
+// Général
+"title" = "MyNewApp";
+"accept" = "Accepter";
+"cancel" = "Annuler";
+"understood" = "Compris";
+"next" = "Suivant";
+"previous" = "Précédent";
+
+// Introduction
+"onboarding.page0.title" = "Bienvenue sur MyNewApp";
+"onboarding.page0.body" = "L'application qui vous aide à gérer vos tâches quotidiennes de manière efficace.";
+"onboarding.page1.title" = "Organisez votre journée";
+"onboarding.page1.body" = "Créez et gérez des listes de tâches, définissez des rappels et gardez tout sous contrôle.";
+"onboarding.page2.title" = "Synchronisez vos appareils";
+"onboarding.page2.body" = "Connectez-vous pour synchroniser vos tâches sur tous vos appareils et y accéder où que vous soyez.";
+"onboarding.page3.title" = "Commencez maintenant";
+"onboarding.page3.body" = "Commencez à créer votre première liste de tâches et atteignez vos objectifs quotidiens facilement.";
+
+// Tâches
+"tasks" = "Tâches";
+"tasks.add" = "Ajouter une tâche";
+"tasks.edit" = "Modifier la tâche";
+"tasks.delete" = "Supprimer la tâche";
+"tasks.complete" = "Tâche terminée";
+
+// Notifications
+"notifications" = "Notifications";
+"notifications.enable" = "Activer les notifications";
+"notifications.disable" = "Désactiver les notifications";
+"notifications.reminder" = "Rappel";
+
+// Paramètres
+"settings" = "Paramètres";
+"settings.account" = "Compte";
+"settings.notifications" = "Notifications";
+"settings.language" = "Langue";
+"settings.support" = "Support";
+"settings.logout" = "Déconnexion";
+
+// Confirmations
+"confirm.delete" = "Êtes-vous sûr de vouloir supprimer cette tâche ?";
+"confirm.logout" = "Voulez-vous vous déconnecter ?";
+
+// Messages d'erreur
+"error.network" = "Erreur réseau. Veuillez réessayer plus tard.";
+"error.save" = "Échec de l'enregistrement. Veuillez réessayer.";
+
+/* UserProfile */
+"profile.name" = "Nom";
+"profile.first.name" = "Prénom";
+"profile.last.name" = "Nom de famille";
+"profile.email" = "E-mail";
+"profile.phone" = "Numéro de téléphone";
+"profile.avatar" = "Avatar";
+"profile.email.notifications" = "Notifications par e-mail";
+"profile.order.statuses" = "Statuts de commande";
+"profile.password.changes" = "Modifications du mot de passe";
+"profile.special.offers" = "Offres spéciales";
+"profile.newsletter" = "Bulletin";
+"profile.log.out" = "Déconnexion";
+"profile.discard.changes" = "Annuler modifications";
+"profile.save.changes" = "Sauvegarder modifications";
+"profile.personal.information" = "Informations personnelles";
+"profile.change" = "Modifier";
+"profile.delete" = "Supprimer";
+"profile.back" = "Retour";
+"profile.send.suggestions" = "Voulez-vous envoyer des suggestions?";
+
+/* Suggestion */
+"suggestion.navigation.title" = "Suggestion d'Amélioration";
+"suggestion.button.send" = "Envoyer";
+"suggestion.personal.info" = "Informations Personnelles";
+"suggestion.name.surname" = "Nom et Prénom";
+"suggestion.name" = "Nom";
+"suggestion.email" = "E-mail";
+"suggestion.message" = "Suggestion";
+"suggestion.alert.title" = "Merci";
+"suggestion.alert.text" = "Votre suggestion a été envoyée.";
+"suggestion.dismiss.button" = "OK";

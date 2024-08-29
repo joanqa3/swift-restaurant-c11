@@ -1,0 +1,93 @@
+/*
+ Localizable.strings
+ MyNewApp
+
+ Created by [Your Name] on [Date].
+*/
+
+"my.language" = "Català";
+
+"language.es" = "Castellà";
+"language.ca" = "Català";
+"language.en" = "Anglès";
+"language.fr" = "Francès";
+
+// General
+"title" = "MyNewApp";
+"accept" = "Acceptar";
+"cancel" = "Cancel·lar";
+"understood" = "Entès";
+"next" = "Següent";
+"previous" = "Anterior";
+
+// Inici
+"onboarding.page0.title" = "Benvingut a MyNewApp";
+"onboarding.page0.body" = "L'aplicació que t'ajuda a gestionar les teves tasques diàries de manera eficient.";
+"onboarding.page1.title" = "Organitza el teu dia";
+"onboarding.page1.body" = "Crea i gestiona llistes de tasques, estableix recordatoris i mantingues tot sota control.";
+"onboarding.page2.title" = "Sincronitza els teus dispositius";
+"onboarding.page2.body" = "Inicia sessió per sincronitzar les teves tasques a tots els teus dispositius i accedeix-hi on vulguis.";
+"onboarding.page3.title" = "Comença ara";
+"onboarding.page3.body" = "Comença a crear la teva primera llista de tasques i aconsegueix els teus objectius diaris amb facilitat.";
+
+// Tasques
+"tasks" = "Tasques";
+"tasks.add" = "Afegeix tasca";
+"tasks.edit" = "Edita tasca";
+"tasks.delete" = "Elimina tasca";
+"tasks.complete" = "Completa tasca";
+
+// Notificacions
+"notifications" = "Notificacions";
+"notifications.enable" = "Habilita les notificacions";
+"notifications.disable" = "Deshabilita les notificacions";
+"notifications.reminder" = "Recordatori";
+
+// Configuració
+"settings" = "Configuració";
+"settings.account" = "Compte";
+"settings.notifications" = "Notificacions";
+"settings.language" = "Idioma";
+"settings.support" = "Suport";
+"settings.logout" = "Tanca sessió";
+
+// Confirmacions
+"confirm.delete" = "Estàs segur que vols eliminar aquesta tasca?";
+"confirm.logout" = "Vols tancar la sessió?";
+
+// Missatges d'error
+"error.network" = "Error de xarxa. Torna-ho a provar més tard.";
+"error.save" = "No s'ha pogut desar. Torna-ho a intentar.";
+
+/* UserProfile */
+"profile.name" = "Nom";
+"profile.first.name" = "Nom";
+"profile.last.name" = "Cognom";
+"profile.email" = "Correu electrònic";
+"profile.phone" = "Número de telèfon";
+"profile.avatar" = "Avatar";
+"profile.email.notifications" = "Notificacions per correu electrònic";
+"profile.order.statuses" = "Estats de comanda";
+"profile.password.changes" = "Canvis de contrasenya";
+"profile.special.offers" = "Ofertes especials";
+"profile.newsletter" = "Butlletí";
+"profile.log.out" = "Tancar sessió";
+"profile.discard.changes" = "Descartar canvis";
+"profile.save.changes" = "Desar canvis";
+"profile.personal.information" = "Informació personal";
+"profile.change" = "Canviar";
+"profile.delete" = "Eliminar";
+"profile.back" = "Enrere";
+"profile.send.suggestions" = "Vols enviar suggeriments?";
+
+/* Suggestion */
+"suggestion.navigation.title" = "Suggeriment de Millora";
+"suggestion.button.send" = "Enviar";
+"suggestion.personal.info" = "Informació Personal";
+"suggestion.name.surname" = "Nom i Cognoms";
+"suggestion.name" = "Nom";
+"suggestion.email" = "Correu Electrònic";
+"suggestion.message" = "Suggeriment";
+"suggestion.alert.title" = "Gràcies";
+"suggestion.alert.text" = "El teu suggeriment ha estat enviat.";
+"suggestion.dismiss.button" = "D'acord";

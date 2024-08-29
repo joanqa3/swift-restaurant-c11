@@ -1,0 +1,93 @@
+/*
+ Localizable.strings
+ MyNewApp
+
+ Created by [Your Name] on [Date].
+*/
+
+"my.language" = "English";
+
+"language.es" = "Spanish";
+"language.ca" = "Catalan";
+"language.en" = "English";
+"language.fr" = "French";
+
+// General
+"title" = "MyNewApp";
+"accept" = "Accept";
+"cancel" = "Cancel";
+"understood" = "Understood";
+"next" = "Next";
+"previous" = "Previous";
+
+// Onboarding
+"onboarding.page0.title" = "Welcome to MyNewApp";
+"onboarding.page0.body" = "The app that helps you efficiently manage your daily tasks.";
+"onboarding.page1.title" = "Organize your day";
+"onboarding.page1.body" = "Create and manage task lists, set reminders, and keep everything under control.";
+"onboarding.page2.title" = "Sync your devices";
+"onboarding.page2.body" = "Log in to sync your tasks across all your devices and access them wherever you are.";
+"onboarding.page3.title" = "Get started now";
+"onboarding.page3.body" = "Start creating your first task list and achieve your daily goals with ease.";
+
+// Tasks
+"tasks" = "Tasks";
+"tasks.add" = "Add task";
+"tasks.edit" = "Edit task";
+"tasks.delete" = "Delete task";
+"tasks.complete" = "Complete task";
+
+// Notifications
+"notifications" = "Notifications";
+"notifications.enable" = "Enable notifications";
+"notifications.disable" = "Disable notifications";
+"notifications.reminder" = "Reminder";
+
+// Settings
+"settings" = "Settings";
+"settings.account" = "Account";
+"settings.notifications" = "Notifications";
+"settings.language" = "Language";
+"settings.support" = "Support";
+"settings.logout" = "Log out";
+
+// Confirmations
+"confirm.delete" = "Are you sure you want to delete this task?";
+"confirm.logout" = "Do you want to log out?";
+
+// Error Messages
+"error.network" = "Network error. Please try again later.";
+"error.save" = "Could not save. Please try again.";
+
+/* UserProfile */
+"profile.name" = "Name";
+"profile.first.name" = "First name";
+"profile.last.name" = "Last name";
+"profile.email" = "E-mail";
+"profile.phone" = "Phone number";
+"profile.avatar" = "Avatar";
+"profile.email.notifications" = "Email notifications";
+"profile.order.statuses" = "Order statuses";
+"profile.password.changes" = "Password changes";
+"profile.special.offers" = "Special offers";
+"profile.newsletter" = "Newsletter";
+"profile.log.out" = "Log out";
+"profile.discard.changes" = "Discard Changes";
+"profile.save.changes" = "Save changes";
+"profile.personal.information" = "Personal information";
+"profile.change" = "Change";
+"profile.delete" = "Delete";
+"profile.back" = "Back";
+"profile.send.suggestions" = "Do you want to send suggestions?";
+
+/* Suggestion */
+"suggestion.navigation.title" = "Suggestion for Improvement";
+"suggestion.button.send" = "Send";
+"suggestion.personal.info" = "Personal Information";
+"suggestion.name.surname" = "Name and Surname";
+"suggestion.name" = "Name";
+"suggestion.email" = "E-mail";
+"suggestion.message" = "Suggestion";
+"suggestion.alert.title" = "Thank You";
+"suggestion.alert.text" = "Your suggestion has been sent.";
+"suggestion.dismiss.button" = "OK";
